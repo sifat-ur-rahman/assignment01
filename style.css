@@ -1,0 +1,73 @@
+body {
+    font-family: 'Finlandica', sans-serif;
+    margin: 0%;
+}
+
+.banner {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.taxt-size {
+    font-size: 70px;
+
+}
+
+.banner-taxt {
+    padding-top: 45px;
+    padding-bottom: 45px;
+    color: rgb(254, 251, 254);
+    text-align: center;
+}
+
+.banner-btn {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 800;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.first-middle {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.first-middle-taxt {
+    font-size: 40px;
+}
+
+.middle-box {
+    display: flex;
+    text-align: center;
+}
+
+.box-tk {
+    width: 80px;
+    height: 30px;
+    border: 1px solid rgb(241, 234, 234);
+    background-color: rgb(214, 227, 222);
+    text-align: center;
+    padding: 20px 3px;
+    margin: 50px;
+    border-radius: 10px;
+}
+
+.box-tk2 {
+    width: 80px;
+    height: 30px;
+    border: 1px solid rgb(227, 139, 139);
+    background-color: rgb(230, 156, 156);
+    text-align: center;
+    padding: 20px 3px;
+    margin: 50px;
+    border-radius: 10px;
+}
+
+.m-middle {
+    text-align: center;
+    margin: 20px;
+}
