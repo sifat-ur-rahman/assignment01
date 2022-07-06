@@ -43,6 +43,8 @@ body {
 .middle-box {
     display: flex;
     text-align: center;
+    text-align: justify;
+    margin-left: 30px;
 }
 
 .box-tk {
@@ -52,7 +54,7 @@ body {
     background-color: rgb(214, 227, 222);
     text-align: center;
     padding: 20px 3px;
-    margin: 50px;
+    margin: 50px 60px;
     border-radius: 10px;
 }
 
@@ -70,4 +72,111 @@ body {
 .m-middle {
     text-align: center;
     margin: 20px;
+}
+
+.Donate-Plan-box {
+    display: flex;
+    margin-top: 80px;
+}
+
+.card {
+    margin-bottom: 100px;
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+#card01 {
+    background-color: rgb(236, 191, 243);
+    border-left: 7px solid rgb(230, 111, 232);
+}
+
+#card02 {
+    background-color: rgb(202, 239, 245);
+    border-left: 7px solid rgb(128, 220, 220);
+}
+
+#card03 {
+    background-color: rgb(242, 235, 199);
+    border-left: 7px solid rgb(223, 214, 111);
+}
+
+.l-middle {
+    padding: 2%;
+    display: flex;
+
+}
+
+.middle-right img {
+    width: 80%;
+}
+
+.middle-right {
+    padding-left: 30px;
+    margin-right: 0;
+}
+
+.middle-left {
+    font-size: 15px;
+    width: 50%;
+    padding-left: 20px;
+}
+
+.left-text {
+    font-size: 45px;
+}
+
+.last {
+    width: 500px;
+    height: 120px;
+    background-color: rgb(242, 189, 189);
+    margin: 10px auto;
+    display: flex;
+    border-radius: 5px;
+}
+
+.email {
+    width: 70px;
+    height: 20px;
+
+    padding: 15px;
+    border-radius: 5px;
+    margin: 30px 40px;
+}
+
+#email-button {
+    margin-right: 0px;
+    text-align: left;
+    margin-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(169, 179, 176);
+}
+
+#sub-button {
+    margin-left: 0;
+    text-align: center;
+    background-color: tomato;
+}
+
+.latst-activity {
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    height: 200px;
+    text-align: center;
+}
+
+footer p {
+    font-size: 13px;
+    color: white;
+}
+
+.footer-need {
+    color: orangered;
+    font-size: 23px;
 }
