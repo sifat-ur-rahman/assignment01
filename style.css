@@ -29,6 +29,7 @@ body {
     font-weight: 800;
     padding: 10px 30px;
     border-radius: 10px;
+    margin-top: 20px;
 }
 
 .first-middle {
@@ -38,6 +39,20 @@ body {
 
 .first-middle-taxt {
     font-size: 40px;
+}
+
+.input-data {
+    height: 40px;
+    width: 100%;
+}
+
+.input-data input {
+    height: 100%;
+    width: 100%;
+    border: none;
+    font-size: 17px;
+    border-bottom: 2px solid silver;
+    text-align: center;
 }
 
 .middle-box {
